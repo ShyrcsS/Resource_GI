@@ -1,0 +1,1 @@
+Resources 3.2
